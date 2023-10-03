@@ -1,0 +1,2 @@
+option('_SOMEGUI_TARGET_ARCH_LINUX', type : 'boolean', value : true)
+option('_SOMEGUI_TARGET_ARCH_WINDOWS', type : 'boolean', value : false)

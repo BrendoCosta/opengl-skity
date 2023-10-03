@@ -1,0 +1,1 @@
+Renderização de gráficos vetoriais via hardware com OpenGL e Skity

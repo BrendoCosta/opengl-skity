@@ -1,0 +1,6 @@
+#ifndef GUI_NAMESPACE_HPP
+#define GUI_NAMESPACE_HPP
+
+#define GUI_NAMESPACE GUI
+
+#endif  // GUI_NAMESPACE_HPP
